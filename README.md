@@ -45,8 +45,8 @@ rationale and the physics references used.
 ## Installation
 
 ```bash
-git clone https://github.com/slastrzelec/03_carbon_nanotube_visualizer.git
-cd 03_carbon_nanotube_visualizer
+git clone https://github.com/slastrzelec/carbon-nanotube-visualizer.git
+cd carbon-nanotube-visualizer
 pip install -r requirements.txt
 streamlit run app.py
 ```
