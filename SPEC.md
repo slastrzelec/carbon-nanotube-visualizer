@@ -1,6 +1,6 @@
 # Carbon Nanotube Visualizer — Technical Upgrade Spec
 
-Status: DRAFT — for review before any implementation
+Status: IMPLEMENTED (see README.md for the user-facing summary; this document is kept as the technical rationale + physics references).
 Scope: technical/functional upgrade only. Naming, README, LICENSE, repo rename, typos = explicitly deferred to a later phase (agreed).
 
 ## 1. Purpose
