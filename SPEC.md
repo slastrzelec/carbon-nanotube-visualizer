@@ -251,7 +251,7 @@ is never broken mid-refactor):
 5. Unrolled-sheet UI tab.
 6. `st.cache_data` pass.
 
-Deploys to the existing `nanotubes.streamlit.app` (Streamlit Community Cloud, auto-deploys
+Deploys to Streamlit Community Cloud (auto-deploys
 from `main`) — no infra changes.
 
 ## 9. Open questions — need your call before implementation starts

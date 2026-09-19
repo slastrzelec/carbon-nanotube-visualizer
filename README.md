@@ -1,10 +1,15 @@
 # Carbon Nanotube Visualizer
 
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.28-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Tests](https://github.com/slastrzelec/carbon-nanotube-visualizer/actions/workflows/tests.yml/badge.svg)
+
 Interactive 3D modeling of single-walled carbon nanotubes: real chiral-vector
 lattice geometry, a computed tight-binding band structure, and molecular file
 export -- built with Python, ASE, Plotly, and Streamlit.
 
-Live demo: https://nanotubes.streamlit.app/
+Live demo: https://carbon-nanotube-visualizer.streamlit.app/
 
 ## Overview
 
@@ -75,6 +80,10 @@ Python, Streamlit, ASE, Plotly, NumPy, SciPy
   construction and the tight-binding zone-folding method used here.
 - S. Iijima, "Helical microtubules of graphitic carbon," *Nature* 354,
   56-58 (1991) -- original discovery.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
 
 ## Known limitation
 
