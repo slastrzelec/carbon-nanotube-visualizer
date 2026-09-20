@@ -11,6 +11,18 @@ export -- built with Python, ASE, Plotly, and Streamlit.
 
 Live demo: https://carbon-nanotube-visualizer.streamlit.app/
 
+## Screenshots
+
+**3D Structure** — a (5,5) armchair tube with the computed structure panel
+(atoms, bonds, diameter, chiral angle, axial period):
+
+![3D Structure](screenshots/3d-structure.png)
+
+**Band Structure & DOS** — the tight-binding band structure and density of
+states, correctly showing a zero gap (metallic) for this tube:
+
+![Band Structure & DOS](screenshots/band-structure-dos.png)
+
 ## Overview
 
 Pick a nanotube by its chiral indices (n, m) -- or an Armchair/Zigzag/Chiral
